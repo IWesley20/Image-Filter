@@ -10,7 +10,7 @@ import javax.imageio.ImageIO;
 public class Grayscale extends Filter
 {
      /**
-     * Constructor for objects of class Mirror
+     * Constructor for objects of class Grayscale
      * @param name The name of the filter.
      */
     public Grayscale(String name)
